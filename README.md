@@ -1,3 +1,10 @@
+
+<img width="1270" alt="image" src="https://github.com/mathewaugustine30/example2-reactjs-pizza-menu-basics/assets/19630912/41b0f677-d043-44fd-a1e4-07dfdc87ae71">
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
